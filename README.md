@@ -21,14 +21,16 @@ I'm a detail-oriented Software Engineer with proficiency in:
 
 * **Backend:** .Net, Java
 * **Frontend:** React, JavaScript
+* * **Mobile:** .Net Maui, Android(Java)
+* **Desktop:** WPF, .Net Maui
 * **Databases:** MSSQL, PostgresSQL, MySQL
 
 **Skills**
 
-* Skilled in front-end, back-end, and mobile app development.
-* Experience with design patterns, clean architecture, Docker, AWS, and message brokers (RabbitMQ).
+* Skilled in front-end, back-end, and mobile app, desktop development.
+* Experience with design patterns, clean architecture, microservices Docker, AWS, and message brokers.
 * Passionate about translating business requirements into elegant technical solutions.
 
-**This repository**
+**These repositories**
 
-This repository serves as a showcase of my work. Feel free to explore and reach out if you have any questions!
+Theses repositories serves as a showcase of my work. Feel free to explore and reach out if you have any questions!
