@@ -21,7 +21,7 @@ I'm a detail-oriented Software Engineer with proficiency in:
 
 * **Backend:** .Net, Java
 * **Frontend:** React, JavaScript
-* * **Mobile:** .Net Maui, Android(Java)
+*  **Mobile:** .Net Maui, Android(Java)
 * **Desktop:** WPF, .Net Maui
 * **Databases:** MSSQL, PostgresSQL, MySQL
 
