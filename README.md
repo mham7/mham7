@@ -6,7 +6,7 @@
 * Exploring new technologies and frameworks.
 * Collaborating with passionate developers.
 
-**I'm currently learning...**
+**Always learning...**
 
 * Always seeking to expand my knowledge in the ever-evolving tech landscape.
 
